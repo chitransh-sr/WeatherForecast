@@ -7,7 +7,6 @@
   width: 400px;
   margin: 80px auto;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
-  color: #ffffff;
 }
 
 .weather-app h1 {
@@ -23,14 +22,12 @@ input[type="text"] {
   border: 2px solid #ffffff;
   border-radius: 25px;
   background: rgba(255, 255, 255, 0.15);
-  color: #ffffff;
   outline: none;
   margin-bottom: 20px;
   transition: border 0.3s, background 0.3s;
 }
 
 input[type="text"]::placeholder {
-  color: #ffffff;
   opacity: 0.8;
 }
 
@@ -43,7 +40,6 @@ button {
   padding: 12px;
   width: 55%;
   background-color: #3498db;
-  color: white;
   border: none;
   border-radius: 25px;
   cursor: pointer;
@@ -68,7 +64,6 @@ button:hover {
 .weather-info h2 {
   font-weight: 600;
   font-size: 1.7em;
-  color: #ffffff;
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
 }
 
